@@ -33,4 +33,4 @@ zig-out/
 bin/
 obj/
 *.hi
-*.o
+*.oinit.sh
