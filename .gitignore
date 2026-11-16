@@ -1,0 +1,36 @@
+# Общие
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Rust
+/target/
+**/*.rs.bk
+
+# Swift / Objective-C / Xcode
+build/
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+
+# Kotlin / Java / Scala / Groovy
+out/
+*.class
+*.jar
+.gradle/
+
+# Zig / C / D / Nim
+zig-cache/
+zig-out/
+*.o
+*.obj
+*.exe
+
+# F# / OCaml / Haskell
+bin/
+obj/
+*.hi
+*.o
