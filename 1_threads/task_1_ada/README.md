@@ -28,3 +28,7 @@ Ada-задачей (`task`): считаются суммы строк и час�
    выводится время работы (`Ada.Real_Time`).
 
 Суммы хранятся в `Long_Long_Integer`, поэтому переполнения при больших матрицах нет.
+
+## Видеодемонстрация
+
+https://drive.google.com/file/d/1TcdxM4PCC0jJZ06SZHuzxxRkVqUq1lob/view?usp=sharing
