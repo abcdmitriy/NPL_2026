@@ -34,3 +34,9 @@ bin/
 obj/
 *.hi
 *.oinit.sh
+
+# Ada / Alire
+alire/
+*.ali
+b__*
+1_threads/task_1_ada/config/

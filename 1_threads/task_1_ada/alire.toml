@@ -1,0 +1,11 @@
+name = "task_1_ada"
+description = "Parallel matrix processing using Ada tasks"
+version = "0.1.0-dev"
+
+authors = ["Akha"]
+maintainers = ["Akha <example@example.com>"]
+licenses = "MIT"
+website = ""
+tags = []
+
+executables = ["task_1_ada"]
