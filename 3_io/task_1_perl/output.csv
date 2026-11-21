@@ -1,0 +1,7 @@
+id,name,description,_source
+1,Alice,"Hello, world",file1.csv
+2,Bob,"Multi
+line
+text",file1.csv
+3,Charlie,"Another, test",file2.csv
+4,Diana,"Normal text",file2.csv
