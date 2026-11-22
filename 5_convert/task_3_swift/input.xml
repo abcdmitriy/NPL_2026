@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Новости технологий &amp; программирования</title>
+        <link>https://example.com/</link>
+        <description>Последние новости из мира технологий, программирования и науки.</description>
+        <language>ru</language>
+
+        <item>
+            <title>Вышла новая версия Swift 6.4</title>
+            <link>https://example.com/news/swift-6-4</link>
+            <pubDate>Sat, 21 Nov 2026 10:00:00 +0300</pubDate>
+            <description><![CDATA[
+                <p>Разработчики представили новую версию языка <b>Swift</b>.</p>
+                <p>В обновлении улучшены:</p>
+                <ul>
+                    <li>производительность компилятора;</li>
+                    <li>диагностика ошибок;</li>
+                    <li>работа с асинхронным кодом.</li>
+                </ul>
+                <p>Подробнее: <a href="https://example.com/swift">официальный сайт</a>.</p>
+            ]]></description>
+        </item>
+
+        <item>
+            <title>Markdown: специальные символы *важны*</title>
+            <link>https://example.com/articles/markdown
+</link>
+            <pubDate>Fri, 20 Nov 2026 15:30:00 +0300</pubDate>
+            <description><![CDATA[
+                <p>Markdown поддерживает форматирование текста.</p>
+                <p>Примеры специальных символов: *звёздочки*, _подчёркивание_, [ссылка](https://example.com), # заголовок и `код`.</p>
+                <p>Символы &amp;, &lt; и &gt; могут встречаться в HTML.</p>
+            ]]></description>
+        </item>
+
+        <item>
+            <title>Открытые технологии и XML</title>
+            <link>https://example.com/news/xml</link>
+            <pubDate>Thu, 19 Nov 2026 09:15:00 +0300</pubDate>
+            <description>Формат RSS основан на XML. Он позволяет передавать заголовки, ссылки и описания публикаций.</description>
+        </item>
+    </channel>
+</rss>
