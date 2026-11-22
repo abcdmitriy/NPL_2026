@@ -1,0 +1,28 @@
+[
+  {
+    "type": "article",
+    "key": "doe2024",
+    "author": [
+      "John Doe",
+      "Jane Smith"
+    ],
+    "title": "A {Nested} BibTeX Example",
+    "journal": "Journal of Examples",
+    "year": 2024,
+    "volume": 12,
+    "number": 3,
+    "pages": "10--20"
+  },
+  {
+    "type": "inproceedings",
+    "key": "smith2023",
+    "author": [
+      "Alex Smith",
+      "Morgan Lee"
+    ],
+    "title": "An Example Paper",
+    "booktitle": "Proceedings of the Example Conference",
+    "month": "November",
+    "year": 2023
+  }
+]
