@@ -1,0 +1,42 @@
+{
+  "title": "Board Game Meetup",
+  "version": 1,
+  "enabled": true,
+  "rating": 4.85,
+  "tags": [
+    "strategy",
+    "party",
+    "cooperative"
+  ],
+  "numbers": [
+    10,
+    20,
+    30,
+    40
+  ],
+  "flags": [
+    true,
+    false,
+    true
+  ],
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8080,
+    "debug": false,
+    "database": {
+      "name": "meetups",
+      "max_connections": 25,
+      "timeout": 3.5,
+      "backup": {
+        "enabled": true,
+        "interval": 24,
+        "folder": "backups"
+      }
+    }
+  },
+  "user": {
+    "name": "Dmitry",
+    "age": 21,
+    "active": true
+  }
+}
